@@ -1,0 +1,33 @@
+.judul .header {
+    border-color: black;
+    background-color: blue;
+    column-span: 2;
+}
+
+
+
+.header {
+    display: inline-block;
+    width: 1200px;
+    height: 100px;
+    background-color: aqua;
+    margin: 5px auto;
+    text-align: justify;
+}
+
+.sidebar {
+    display: block;
+    width: 300px;
+    height: 1px
+}
+.konten {
+    display: inline-block;
+    margin: 0px 120px; 
+    background-color: lightblue;
+    width: 1200px;
+    height: 100px;
+}
+
+#konten {
+    background-attachment: fixed;
+}
